@@ -1,9 +1,9 @@
 ## Hi there 👋
+----------
 
-### I prefer to use only nicknames so just call me PureFoxCore or Fox
-### I'm student **17 Y.O.**
-
-- 🔭 I’m currently working on my own [Game Engine](https://github.com/PureFoxCore/GaemEngein)
+- 😅 I prefer to use only nicknames so just call me PureFoxCore or Fox
+- 😊 I'm student **17 Y.O.**
+- 🔭 I’m currently working on my own [Game Engine](https://github.com/PureFoxCore/GaemEngein) and sometimes on my [mod](https://github.com/PureFoxCore/DeadMod) for [VRChat](https://store.steampowered.com/app/438100/VRChat/)
 - 🌱 I’m currently learning C and C++
 - 🤔 I’m looking for help with Vulkan SDK 🧐
 - 💬 You can ask me about C#
