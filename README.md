@@ -2,7 +2,7 @@
 ----------
 
 - 😅 I prefer to use only nicknames so just call me PureFoxCore or Fox
-- 😊 I'm student, **17.9 Y.O.**
+- 😊 I'm student, **18 Y.O.**
 - 🌱 I’m currently learning C and C++
 - 🤔 I’m looking for help with Vulkan SDK 🧐
 - 💬 You can ask me about C#
